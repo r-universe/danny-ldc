@@ -8,6 +8,3 @@
 [submodule "RcmdrPlugin.ROC"]
 	path = RcmdrPlugin.ROC
 	url = https://github.com/cran/RcmdrPlugin.ROC
-[submodule "RcmdrPlugin.coin"]
-	path = RcmdrPlugin.coin
-	url = https://github.com/cran/RcmdrPlugin.coin
